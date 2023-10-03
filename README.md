@@ -1,4 +1,5 @@
-```javascript
+<p align="center"> 
+  ```javascript
 const lipe = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript, C, Java, Vue.js, MySQL],
@@ -7,7 +8,7 @@ const lipe = {
               sistemas e desenvolvimento web full stack. Contate me."
 }
 ```
-
+</p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lipemp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Entre em contato:
