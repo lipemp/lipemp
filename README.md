@@ -4,7 +4,9 @@
 const lipe = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript, C, Java, Vue.js, MySQL],
-  biography: "Sou um apaixonado pela tecnologia e estou buscando cada vez aprender mais sobre o ramo. Estudo análise e desenvolvimento de sistemas e desenvolvimento web full stack. Contate me."
+  biography: "Sou um apaixonado pela tecnologia e estou buscando cada
+vez aprender mais sobre o ramo. Estudo análise e desenvolvimento de sistemas
+e desenvolvimento web full stack. Contate me."
 }
 ```
 ## 🌐 Rede Sociais:
