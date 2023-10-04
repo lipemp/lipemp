@@ -1,5 +1,5 @@
 ```javascript
-const lipe = {
+const lipemp = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript, C, Java, Vue.js, MySQL],
   biography: "Sou um apaixonado pela tecnologia e estou buscando cada
