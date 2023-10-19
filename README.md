@@ -8,7 +8,7 @@ const lipemp = {
 }
 ```
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lipemp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p float="right">![](https://github-readme-stats.vercel.app/api/top-langs/?username=lipemp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</p>
 
 🌐 Entre em contato: </h1>
 <p align="left">
