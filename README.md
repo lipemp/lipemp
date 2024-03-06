@@ -1,7 +1,7 @@
 ```javascript
 let lipemp = {
   pronouns: "he" | "him",
-  codesInLearning: [HTML, CSS, JavaScript, Vue.js, C, Java, MySQL],
+  codesInLearning: [HTML, CSS, JavaScript, PHP, Laravel, Vue.js, C, Java],
   biography: "Sou um apaixonado pela tecnologia e estou buscando cada
               vez aprender mais sobre o ramo. Estudo análise e desenvolvimento de
               sistemas e desenvolvimento web full stack. Contate me."
